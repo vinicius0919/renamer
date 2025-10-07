@@ -18,7 +18,7 @@ Renamer is a simple tool designed to automate the process of renaming files in b
 
 ## Requirements
 
-- Python 3.x (or specify your language/environment)
+- Python 3.x
 - No additional dependencies required
 
 ## License
